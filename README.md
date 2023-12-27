@@ -1,4 +1,4 @@
-## Bem vindo ao meu perfil!, meu nome é Kauan!, estudante de DS na Etec de lins!
+## Bem vindo ao meu perfil! meu nome é Kauan, estudante de DS na Etec de lins!
  
 <div> 
   <a href="https://instagram.com/kauan_matheus260" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
