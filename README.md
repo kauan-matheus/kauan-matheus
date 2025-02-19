@@ -2,9 +2,10 @@
 
 **`Desenvolvedor Python`**
 
-Me chamo Kauan, fui formando em desenvolvimento de sistemas técnico na Etec Lins, utilizando programação full-stack (HTML | CSS | JS | PHP | BOOTSTRAP) e com práticas de análise de software e teste de qualidade.
+<p>Me chamo Kauan, fui formando em desenvolvimento de sistemas técnico na Etec Lins, utilizando programação full-stack (HTML | CSS | JS | PHP | BOOTSTRAP) e com práticas de análise de software e teste de qualidade.
 Atualmente estou estudando Python e bibliotecas como Django e Flask e estou cursando Ciência Da Computação na UNIMAR, procuro desenvolver minhas habilidades e aperfeiçoar ao máximo tudo o que eu puder.
 Sempre estou em busca de novos conhecimentos, novas tecnologias e diferentes formas de aprender
+</p>
 ---
 
 ### 🤖 Linguagens e Tecnologias
