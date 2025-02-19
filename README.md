@@ -7,6 +7,7 @@ Atualmente estou estudando Python e bibliotecas como Django e Flask e estou curs
 Sempre estou em busca de novos conhecimentos, novas tecnologias e diferentes formas de aprender
 </p>
 
+---
 
 ### 🤖 Linguagens e Tecnologias
 
