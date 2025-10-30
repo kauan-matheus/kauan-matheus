@@ -61,7 +61,7 @@ Sempre estou em busca de novos conhecimentos, novas tecnologias e diferentes for
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg" 
 />
 
 <img 
