@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Kauan Matheus
+# Kauan Matheus
 
 **`Desenvolvedor Web`**
 
@@ -9,7 +9,7 @@ Sempre estou em busca de novos conhecimentos, novas tecnologias e diferentes for
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
