@@ -2,9 +2,20 @@
 
 **`Desenvolvedor Web`**
 
-<p>Me chamo Kauan, fui formado em desenvolvimento de sistemas técnico na Etec Lins, utilizando programação full-stack (REACT && NODEJS) e com práticas de análise de software e teste de qualidade.
-Atualmente estou estudando NODE e estou cursando Ciência Da Computação na UNIMAR, procuro desenvolver minhas habilidades e aperfeiçoar ao máximo tudo o que eu puder.
-Sempre estou em busca de novos conhecimentos, novas tecnologias e diferentes formas de aprender
+<p>Desenvolvedor Back-end em formação, com experiência prévia como Full-Stack em Node.js e foco atual em .NET e ASP.NET Core.
+
+Atuei com desenvolvimento de APIs REST, integração entre front-end e back-end e organização de projetos, o que me proporcionou uma base sólida em lógica, versionamento e estruturação de aplicações.
+
+Atualmente estou direcionando minha carreira para o desenvolvimento Back-end com .NET, estudando arquitetura em camadas, DTOs, boas práticas de API, Entity Framework Core e SQL Server.
+
+Foco atual:
+• C# e .NET
+• ASP.NET Core
+• APIs REST
+• Entity Framework Core
+• Git/GitHub
+
+Busco oportunidades de estágio ou vaga júnior em Back-end .NET para evoluir tecnicamente e contribuir com soluções bem estruturadas.
 </p>
 
 ---
