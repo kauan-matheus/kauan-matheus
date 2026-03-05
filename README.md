@@ -9,6 +9,7 @@ Atuei com desenvolvimento de APIs REST, integração entre front-end e back-end 
 Atualmente estou direcionando minha carreira para o desenvolvimento Back-end com .NET, estudando arquitetura em camadas, DTOs, boas práticas de API, Entity Framework Core e SQL Server.
 
 Foco atual:
+
 • C# e .NET
 
 • ASP.NET Core
