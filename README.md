@@ -10,9 +10,13 @@ Atualmente estou direcionando minha carreira para o desenvolvimento Back-end com
 
 Foco atual:
 • C# e .NET
+
 • ASP.NET Core
+
 • APIs REST
+
 • Entity Framework Core
+
 • Git/GitHub
 
 Busco oportunidades de estágio ou vaga júnior em Back-end .NET para evoluir tecnicamente e contribuir com soluções bem estruturadas.
