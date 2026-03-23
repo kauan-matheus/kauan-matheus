@@ -20,7 +20,6 @@ Foco atual:
 
 • Git/GitHub
 
-Busco oportunidades de estágio ou vaga júnior em Back-end .NET para evoluir tecnicamente e contribuir com soluções bem estruturadas.
 </p>
 
 ---
