@@ -12,18 +12,18 @@ Desenvolvedor Back-End .NET • APIs REST • Arquitetura em Camadas
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,react,nextjs,ts,tailwind,postgres,mysql&theme=dark&perline=5" />
+<p align="center" width="100%">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,nextjs,tailwind,postgres,mysql&theme=dark&perline=9" />
 </p>
 
 ---
 
-## ⚙️ Infraestrutura
+## Infraestrutura
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github&theme=dark&perline=4" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,kali,git,github&theme=dark&perline=9" />
 </p>
 
 ---
