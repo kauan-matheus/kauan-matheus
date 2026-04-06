@@ -3,7 +3,7 @@
 <h1 align="center">Kauan Matheus</h1>
 
 <p align="center">
-Desenvolvedor Full-Stack .NET • APIs REST • Arquitetura em Camadas
+Desenvolvedor Full-Stack .NET | NextJS • APIs REST • Arquitetura em Camadas
 </p>
 
 <p align="center">
