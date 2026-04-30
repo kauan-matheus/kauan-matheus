@@ -1,31 +1,65 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header"/>
+<div align="center">
 
-<h1 align="center">Kauan Matheus</h1>
+# Kauan Matheus
 
-<p align="center">
-Desenvolvedor Full-Stack .NET | NextJS • APIs REST • Arquitetura em Camadas
+**Full Stack Developer → DevOps Engineer**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kauanmatheus)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kauanmatheus)
+
+</div>
+
+---
+
+Desenvolvedor Full Stack em formação com base sólida em **.NET + Next.js**, direcionando minha trajetória para **Engenharia DevOps**. Tenho interesse em automação de infraestrutura, pipelines CI/CD e observabilidade de sistemas.
+
+---
+
+## Stack
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=28&center=true&vCenter=true&width=800&lines=Back-end+.NET;APIs+REST+com+ASP.NET+Core;Clean+Architecture+" />
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=dark" />
+</p>
+
+### Banco de Dados
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
+  <img src="https://cdn.simpleicons.org/influxdb/22ADF6" width="48" height="48" />
 </p>
 
 ---
 
-## Tecnologias
+## DevOps & Infraestrutura
 
-<p align="center" width="100%">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,nextjs,tailwind,postgres,mysql&theme=dark&perline=9" />
+### CI/CD & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=githubactions,aws,terraform&theme=dark" />
+</p>
+
+### Containers & OS
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux&theme=dark" />
+</p>
+
+### Observabilidade
+<p>
+  <img src="https://skillicons.dev/icons?i=grafana&theme=dark" />
+  <img src="https://cdn.simpleicons.org/influxdb/22ADF6" width="48" height="48" />
+</p>
+
+### Controle de Versão
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
 </p>
 
 ---
 
-## Infraestrutura
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,kali,git,github&theme=dark&perline=9" />
-</p>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
+<div align="center">
+<sub>Full Stack em formação · rumo a DevOps</sub>
+</div>
