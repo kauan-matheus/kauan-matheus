@@ -11,7 +11,7 @@
 
 ---
 
-Desenvolvedor Full Stack em formação com base sólida em **.NET + Next.js**, direcionando minha trajetória para **Engenharia DevOps**. Tenho interesse em automação de infraestrutura, pipelines CI/CD e observabilidade de sistemas.
+Desenvolvedor Full Stack em formação com experiência em **.NET + Next.js**, direcionando minha trajetória para **Engenheiro DevOps**. Tenho interesse em automação de infraestrutura, pipelines CI/CD e observabilidade de sistemas.
 
 ---
 
