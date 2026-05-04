@@ -60,6 +60,3 @@ Desenvolvedor Full Stack em formação com experiência em **.NET + Next.js**, d
 
 ---
 
-<div align="center">
-<sub>Full Stack em formação · rumo a DevOps</sub>
-</div>
