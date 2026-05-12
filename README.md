@@ -24,7 +24,7 @@ Desenvolvedor Full Stack em formação com experiência em **.NET + Next.js**, d
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark" />
 </p>
 
 ### Banco de Dados
