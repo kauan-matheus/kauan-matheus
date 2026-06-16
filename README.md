@@ -32,7 +32,7 @@ Meu foco está na construção de aplicações escaláveis, automação de proce
 </p>
 
 * ASP.NET Core
-* .NET 8
+* .NET (8,10)
 * Entity Framework Core
 * REST APIs
 * JWT Authentication
@@ -56,12 +56,14 @@ Meu foco está na construção de aplicações escaláveis, automação de proce
 ### Banco de Dados
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
 * PostgreSQL
 * MySQL
+* MongoDB
 * Modelagem Relacional
+* Modelagem Não Relacional
 * SQL
 
 ---
@@ -99,11 +101,12 @@ Meu foco está na construção de aplicações escaláveis, automação de proce
 ### Observabilidade
 
 <p>
-  <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus,influxdb" />
 </p>
 
 * Grafana
 * Prometheus
+* InfluxDB
 * Logs
 * Métricas
 * Monitoramento
@@ -153,10 +156,6 @@ Sistema operacional para gestão de demandas internas, produtividade, controle d
 
 * GitHub: github.com/kauan-matheus
 * LinkedIn: linkedin.com/in/kauan-matheus
-* Email: [contato@seuemail.com](mailto:contato@seuemail.com)
+* Email: [kauanmatheus.dev@gmail.com](mailto:kauanmatheus.dev@gmail.com)
 
 ---
-
-<p align="center">
-  <i>"Building software is not only about writing code. It's about creating reliable systems."</i>
-</p>
