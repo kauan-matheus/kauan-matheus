@@ -1,62 +1,162 @@
-<div align="center">
+# 👋 Olá, eu sou Kauan Matheus
 
-# Kauan Matheus
+### Full Stack Developer • Cloud & DevOps Enthusiast
 
-**Full Stack Developer & Cloud DevOps**
+<p align="left">
+Desenvolvedor Full Stack em formação, apaixonado por tecnologia, arquitetura de software e infraestrutura. Atualmente atuo com desenvolvimento de aplicações utilizando <strong>.NET</strong> e <strong>Next.js</strong>, enquanto direciono minha carreira para a área de <strong>Cloud & DevOps Engineering</strong>.
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-matheus-3211b5244/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kauanmatheus)
-
-</div>
-
----
-
-Desenvolvedor Full Stack em formação com experiência em **.NET + Next.js**, direcionando minha trajetória para **Engenheiro DevOps**. Tenho interesse em automação de infraestrutura, pipelines CI/CD e observabilidade de sistemas.
+<p align="left">
+Meu foco está na construção de aplicações escaláveis, automação de processos, integração contínua, observabilidade e infraestrutura moderna baseada em containers e cloud computing.
+</p>
 
 ---
 
-## Stack
+## 🚀 Sobre Mim
+
+* 💻 Desenvolvedor Full Stack
+* ☁️ Estudando Cloud Computing e DevOps
+* 🏗️ Entusiasta de Arquitetura de Software
+* ⚙️ Automação de Infraestrutura e CI/CD
+* 📚 Aprendizado contínuo em plataformas cloud e observabilidade
+* 🎯 Objetivo profissional: atuar como Engenheiro DevOps
+
+---
+
+## 🛠️ Tech Stack
 
 ### Backend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs" />
 </p>
+
+* ASP.NET Core
+* .NET 8
+* Entity Framework Core
+* REST APIs
+* JWT Authentication
+
+---
 
 ### Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind" />
 </p>
+
+* Next.js
+* React
+* TypeScript
+* TailwindCSS
+* Responsive Design
+
+---
 
 ### Banco de Dados
+
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
-  <img src="https://cdn.simpleicons.org/influxdb/22ADF6" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
+
+* PostgreSQL
+* MySQL
+* Modelagem Relacional
+* SQL
 
 ---
 
-## DevOps & Infraestrutura
+## ☁️ DevOps & Infraestrutura
 
 ### CI/CD & Cloud
+
 <p>
-  <img src="https://skillicons.dev/icons?i=githubactions,aws,terraform&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=githubactions,azure,aws" />
 </p>
 
-### Containers & OS
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux&theme=dark" />
-</p>
-
-### Observabilidade
-<p>
-  <img src="https://skillicons.dev/icons?i=grafana&theme=dark" />
-  <img src="https://cdn.simpleicons.org/influxdb/22ADF6" width="48" height="48" />
-</p>
-
-### Controle de Versão
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
-</p>
+* GitHub Actions
+* Azure Fundamentals
+* AWS Fundamentals
+* Continuous Integration
+* Continuous Delivery
 
 ---
 
+### Containers & Sistemas Operacionais
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,bash" />
+</p>
+
+* Docker
+* Linux
+* Bash Scripting
+* Containers
+* Virtualização
+
+---
+
+### Observabilidade
+
+<p>
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+</p>
+
+* Grafana
+* Prometheus
+* Logs
+* Métricas
+* Monitoramento
+
+---
+
+## 📌 Projetos em Destaque
+
+### 🎮 Game Boy Emulator
+
+Emulador do Nintendo Game Boy desenvolvido do zero utilizando C#, com foco em arquitetura de computadores, emulação de CPU, memória, instruções e hardware legado.
+
+### 🏥 MeuPlantão
+
+Sistema para gerenciamento de plantões médicos com foco em produtividade, organização e experiência do usuário.
+
+### ⚡ Chronos
+
+Sistema operacional para gestão de demandas internas, produtividade, controle de tempo, SLA e capacidade operacional.
+
+---
+
+## 📈 Atualmente Estudando
+
+* Kubernetes
+* Docker Avançado
+* GitHub Actions
+* Azure
+* AWS
+* Observabilidade
+* Arquitetura de Software
+* Engenharia de Plataforma
+
+---
+
+## 🎯 Objetivos
+
+* Evoluir para Engenheiro DevOps
+* Aprimorar conhecimentos em Cloud Computing
+* Construir soluções escaláveis e resilientes
+* Dominar observabilidade e automação
+* Contribuir com projetos open source
+
+---
+
+## 📫 Contato
+
+* GitHub: github.com/kauan-matheus
+* LinkedIn: linkedin.com/in/kauan-matheus
+* Email: [contato@seuemail.com](mailto:contato@seuemail.com)
+
+---
+
+<p align="center">
+  <i>"Building software is not only about writing code. It's about creating reliable systems."</i>
+</p>
